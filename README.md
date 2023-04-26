@@ -38,6 +38,11 @@ python main.py
 
 Contributions are welcome! If you'd like to contribute, please feel free to.  The code as it exists right now is extremely messy due to my inexperience with threading and making GUI apps.
 
+## Reviews
+
+looks safe to me, though i may have missed something of course
+    -Redeye on discord
+
 ## License
 
 SmoothTracker is released under the [GNU General Public License v3.0](https://opensource.org/licenses/GPL-3.0).
