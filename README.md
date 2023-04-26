@@ -2,6 +2,7 @@
 
 SmoothTracker is a Python application that visualizes mouse movements and clicks. The application captures the mouse positions, stores them, and generates an image representing the path of the mouse pointer. The color of the lines in the image is determined by the angle between consecutive points, and the user can adjust the line width.
 ![SmoothTracker_24h7m59s](https://user-images.githubusercontent.com/11169730/234631428-8adb75f2-0075-4018-8dbe-ab3b4bc9eb60.jpg)
+![SmoothTracker_4h7m33s](https://user-images.githubusercontent.com/11169730/234692346-e446b9ed-c5f6-4015-85c4-7a703d652c7f.jpg)
 ![image](https://user-images.githubusercontent.com/11169730/234632191-35a23096-717a-4e3e-9bf6-5cf518f28276.png)
 
 
